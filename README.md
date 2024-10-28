@@ -1,16 +1,15 @@
-# Bootstrap w/ React
+# Bootstrap starter
 
-Include [Bootstrap](https://getbootstrap.com)'s source Sass with [React](https://react.dev/) and [Next.js](https://nextjs.org/). Also includes [React Bootstrap](https://react-bootstrap.github.io/)
+Include [Bootstrap](https://getbootstrap.com) CSS and JS via the [jsDelivr CDN](https://www.jsdelivr.com/package/npm/bootstrap).
 
 ## Edit in browser
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/twbs/examples/tree/main/react-nextjs?file=src%2Fpages%2Findex.tsx)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/twbs/examples/tree/main/starter?file=index.html)
 
-## How to use
+## Download
 
 ```sh
 git clone https://github.com/twbs/examples.git
-cd examples/react-nextjs/
-npm install
-npm start
+cd examples/starter/
+open index.html
 ```
